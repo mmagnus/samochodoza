@@ -34,6 +34,9 @@ Propozycje:
     Samochód blokuje cały chodnik, dodatkowo zaparkowany przy pasach dla pieszych.
     Samochód zaparkowany na pasach dla pieszych.
 
+    Samochód blokuje chodnik, dodatkowo zaparkowany na zakazie B-36.
+
+
 <img src="imgs/210813-16.18.22_282K_2a.png" width="30%" />
 Dodajemy 2-3 zdjęcia aby było łatwiej zidentyfikować problem.
 <img src="imgs/210813-16.18.29_271K_IMG_6294.png" width="30%" />
