@@ -36,6 +36,10 @@ Propozycje:
 
     Samochód blokuje chodnik, dodatkowo zaparkowany na zakazie B-36.
 
+    Samochod zaparkowany przy przejściu dla pieszych (poniżej 10 metrów) plus na P-21 "powierzchnia wyłączona".
+
+    Samochód blokuje chodnik (miej niż 1 m dla pieszego), dodatkowo zaparkowany na zakazie B-36.
+
 
 <img src="imgs/210813-16.18.22_282K_2a.png" width="30%" />
 Dodajemy 2-3 zdjęcia aby było łatwiej zidentyfikować problem.
